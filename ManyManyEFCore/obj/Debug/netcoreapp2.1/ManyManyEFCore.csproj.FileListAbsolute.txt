@@ -1,0 +1,13 @@
+C:\Users\Coenen\source\repos\Exploration\ManyManyEFCore\bin\Debug\netcoreapp2.1\ManyManyEFCore.deps.json
+C:\Users\Coenen\source\repos\Exploration\ManyManyEFCore\bin\Debug\netcoreapp2.1\ManyManyEFCore.runtimeconfig.json
+C:\Users\Coenen\source\repos\Exploration\ManyManyEFCore\bin\Debug\netcoreapp2.1\ManyManyEFCore.runtimeconfig.dev.json
+C:\Users\Coenen\source\repos\Exploration\ManyManyEFCore\bin\Debug\netcoreapp2.1\ManyManyEFCore.dll
+C:\Users\Coenen\source\repos\Exploration\ManyManyEFCore\bin\Debug\netcoreapp2.1\ManyManyEFCore.pdb
+C:\Users\Coenen\source\repos\Exploration\ManyManyEFCore\obj\Debug\netcoreapp2.1\ManyManyEFCore.csproj.CoreCompileInputs.cache
+C:\Users\Coenen\source\repos\Exploration\ManyManyEFCore\obj\Debug\netcoreapp2.1\ManyManyEFCore.RazorAssemblyInfo.cache
+C:\Users\Coenen\source\repos\Exploration\ManyManyEFCore\obj\Debug\netcoreapp2.1\ManyManyEFCore.RazorAssemblyInfo.cs
+C:\Users\Coenen\source\repos\Exploration\ManyManyEFCore\obj\Debug\netcoreapp2.1\ManyManyEFCore.AssemblyInfoInputs.cache
+C:\Users\Coenen\source\repos\Exploration\ManyManyEFCore\obj\Debug\netcoreapp2.1\ManyManyEFCore.AssemblyInfo.cs
+C:\Users\Coenen\source\repos\Exploration\ManyManyEFCore\obj\Debug\netcoreapp2.1\ManyManyEFCore.RazorTargetAssemblyInfo.cache
+C:\Users\Coenen\source\repos\Exploration\ManyManyEFCore\obj\Debug\netcoreapp2.1\ManyManyEFCore.dll
+C:\Users\Coenen\source\repos\Exploration\ManyManyEFCore\obj\Debug\netcoreapp2.1\ManyManyEFCore.pdb
